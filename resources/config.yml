@@ -1,0 +1,9 @@
+# Измени false на true что бы заблокировать вход с устройства.
+Windows10: false
+Android: false
+Nintendo: false
+Xbox: false
+PlayStation: false
+OSX: false #MacOS яблочный компуктер
+IOS: false
+kick-msg: "§l§c| Ой... Кажется на этом устройстве поиграть не получиться.. \n§cЖалко....." # Сообщние которое появиться после кика игрока если он играет с запрещеным устройством.
